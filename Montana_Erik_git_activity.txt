@@ -1,0 +1,20 @@
+*   3d42db2 (HEAD -> main) Merge feature/project-structure into main
+|\  
+| * 94c377b (feature/project-structure) Add project directory structure with placeholder files
+|/  
+* ec54871 (origin/main, origin/HEAD) Initial commit
+\n===== REPOSITORY STRUCTURE =====\n
+.
+./docs
+./docs/README.md
+./src
+./src/__init__.py
+./README.md
+./.gitignore
+./tests
+./tests/__init__.py
+./Montana_Erik_git_activity.txt
+./notebooks
+./notebooks/example.ipynb
+./data
+./data/.gitkeep
